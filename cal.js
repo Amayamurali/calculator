@@ -1,0 +1,10 @@
+function displayData(data){
+    result.value+=data 
+}
+
+function allclear(){
+    result.value=""
+}
+function findout(){
+    result.value=eval(result.value)
+}
